@@ -7,9 +7,9 @@ You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for A
 ### Project Structure :
 
 1.templates
-    i) indext.html -- HTML for taking input from user
-    ii) predict.html -- HTML form for showing predictions
-    
+i) indext.html -- HTML for taking input from user
+ii) predict.html -- HTML form for showing predictions
+ 
 2. app.py - This contains Flask APIs that receives student details through GUI or API calls, computes the precited value based on our model and returns it.
 
 3. model.ipynb - This contains code of model training and model testing.
@@ -26,7 +26,7 @@ You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for A
 
 Goto -- Anaconda Propt
 
-cd space Path where file is saved, then enter
+Type -- cd "Path where file is saved"  then click enter
 
 Then you will be on that path
 
