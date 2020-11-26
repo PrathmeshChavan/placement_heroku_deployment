@@ -45,3 +45,9 @@ Enter this url on any browser, then you will see user input form.
 
 
 #### This File is a deployable file on Heroku cloud
+
+#### Click below link and make some predictions :)
+
+[Click Here]{https://ml-student-placement-app.herokuapp.com/}
+
+
