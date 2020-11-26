@@ -41,4 +41,7 @@ App will start running and it will generate following local url
 http://localhost:5000/
 ~~~
 
-Enter this url on any browser, then you will see use input form.
+Enter this url on any browser, then you will see user input form.
+
+
+#### This File is a deployable file on Heroku cloud
