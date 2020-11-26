@@ -48,6 +48,6 @@ Enter this url on any browser, then you will see user input form.
 
 #### Click below link and make some predictions :)
 
-[Click Here]{https://ml-student-placement-app.herokuapp.com/}
+[ Click Here ]{ https://ml-student-placement-app.herokuapp.com/ }
 
 
